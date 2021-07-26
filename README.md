@@ -19,7 +19,8 @@ Task 4 refinement: After one week of familiarise vue.js, I can finally create si
 
 <img width="1105" alt="Screen Shot 2021-07-26 at 10 51 32 pm" src="https://user-images.githubusercontent.com/87454125/126991653-1c8a7076-2588-4243-b089-19b6f6bdeeb3.png"> My Vue Simple To-D0-List using only HTML.
 
-<img width="734" alt="Screen Shot 2021-07-26 at 10 53 11 pm" src="https://user-images.githubusercontent.com/87454125/126991841-528fd04e-0187-43fd-851f-4f55172aad83.png"> My Vue Simple To-D0-List using only HTML and JavaScript.
+<img width="1106" alt="Screen Shot 2021-07-26 at 10 56 11 pm" src="https://user-images.githubusercontent.com/87454125/126992254-87bddaab-a8f5-479c-a723-eacd76fb6618.png"> My Vue Simple To-D0-List using only HTML and JavaScript.
+
 
 
 
