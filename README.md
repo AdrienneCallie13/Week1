@@ -17,11 +17,10 @@ Task 4: On task 4, I was struggled to create a to-do list. I was able to create 
 
 Task 4 refinement: After one week of familiarise vue.js, I can finally create simple to-do list using Vue, HTML, and Java Script. 
 
-<img width="325" alt="Screen Shot 2021-07-26 at 10 45 07 pm" src="https://user-images.githubusercontent.com/87454125/126990852-e0bc64dd-b691-4678-925c-980ddd9d6f1f.png"> 
+<img width="325" alt="Screen Shot 2021-07-26 at 10 45 07 pm" src="https://user-images.githubusercontent.com/87454125/126990852-e0bc64dd-b691-4678-925c-980ddd9d6f1f.png" class="center"> 
 Task 4 Vue To Do Lists.
 
-
-<img width="353" alt="Screen Shot 2021-07-26 at 10 45 03 pm" src="https://user-images.githubusercontent.com/87454125/126990873-1960d910-53cd-4b94-b8b2-103bffdf3c02.png"> 
+<img width="353" alt="Screen Shot 2021-07-26 at 10 45 03 pm" src="https://user-images.githubusercontent.com/87454125/126990873-1960d910-53cd-4b94-b8b2-103bffdf3c02.png" class="center"> 
 Task 4 Refinement of Vue To Do lists.
 
 
