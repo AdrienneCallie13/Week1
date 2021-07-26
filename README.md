@@ -18,5 +18,5 @@ Task 4: On task 4, I was struggled to create a to-do list. I was able to create 
 
 Task 4 refinement: After one week of familiarise vue.js, I can finally create simple to-do list using Vue, HTML, and Java Script. 
 
-Screen Shot 2021-07-26 at 10.30.48 pm<img width="1425" alt="Screen Shot 2021-07-26 at 10 30 48 pm" src="https://user-images.githubusercontent.com/87454125/126988964-474104fe-2322-40f0-90c1-9284bc25c16a.png">
+<img width="1425" alt="Screen Shot 2021-07-26 at 10 30 48 pm" src="https://user-images.githubusercontent.com/87454125/126988964-474104fe-2322-40f0-90c1-9284bc25c16a.png"> Week 1 Practical Leaning Outcome.
 
