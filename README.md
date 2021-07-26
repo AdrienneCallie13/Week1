@@ -1,10 +1,7 @@
 Learning reflection: I have learned more depth about HTML, CSS, and JavaScript in first week by completing task 1 to 3.
 W3schools website really helps me in learning about basic HTML, CSS, and JavaScript. 
 
-Task 1: HTML is a mark-up language that determines the structure of web pages at their most basic level. HTML instructs browsers how to process content and deliver it to the viewer using tags and attributes. 
-The head section and the body section are the two sections of an HTML document. The head section of the page provides meta-data about the page as well as any internal CSS.
-This information is not displayed to readers by the browser. All of the content that will be shown on the front end, such as paragraphs, pictures, and links, is contained in the body section. 
-
+Task 1: I learned about HTML is a mark-up language that determines the structure of web pages at their most basic level. HTML instructs browsers how to process content and deliver it to the viewer using tags and attributes.  
 
 Task 2:
 3 types of CSS:
@@ -14,9 +11,14 @@ Task 2:
 
 Task 3: I'm using JavaScript to create and control dynamic website content. For examples: animated graphics, photo slideshows, autocomplete text suggestions, interactive form.
 
+<img width="1425" alt="Screen Shot 2021-07-26 at 10 30 48 pm" src="https://user-images.githubusercontent.com/87454125/126988964-474104fe-2322-40f0-90c1-9284bc25c16a.png"> Week 1 task 1,2,3 Practical Leaning Outcome.
+
 Task 4: On task 4, I was struggled to create a to-do list. I was able to create to do list on HTML but not on JavaScript. Along the week, I challenged myself and learned how to create to-do list using HTML and JavaScript code on Visual Studio Code and familiarise myself with Vue.
 
 Task 4 refinement: After one week of familiarise vue.js, I can finally create simple to-do list using Vue, HTML, and Java Script. 
 
-<img width="1425" alt="Screen Shot 2021-07-26 at 10 30 48 pm" src="https://user-images.githubusercontent.com/87454125/126988964-474104fe-2322-40f0-90c1-9284bc25c16a.png"> Week 1 Practical Leaning Outcome.
+<img width="325" alt="Screen Shot 2021-07-26 at 10 45 07 pm" src="https://user-images.githubusercontent.com/87454125/126990852-e0bc64dd-b691-4678-925c-980ddd9d6f1f.png"> Task 4 Vue To Do Lists.
+
+Screen Shot 2021-07-26 at 10.45.03 pm<img width="353" alt="Screen Shot 2021-07-26 at 10 45 03 pm" src="https://user-images.githubusercontent.com/87454125/126990873-1960d910-53cd-4b94-b8b2-103bffdf3c02.png"> Task 4 Refinement of Vue To Do lists.
+
 
