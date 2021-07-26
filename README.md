@@ -11,7 +11,7 @@ Task 2:
 
 Task 3: I'm using JavaScript to create and control dynamic website content. For examples: animated graphics, photo slideshows, autocomplete text suggestions, interactive form.
 
-<img width="1425" alt="Screen Shot 2021-07-26 at 10 30 48 pm" src="https://user-images.githubusercontent.com/87454125/126988964-474104fe-2322-40f0-90c1-9284bc25c16a.png"> Week 1 task 1,2,3 Practical Leaning Outcome.
+<img width="1425" alt="Screen Shot 2021-07-26 at 10 30 48 pm" src="https://user-images.githubusercontent.com/87454125/126988964-474104fe-2322-40f0-90c1-9284bc25c16a.png"> Week 1 Practical Task 1,2,3 Leaning Outcome.
 
 Task 4: On task 4, I was struggled to create a to-do list. I was able to create to do list on HTML but not on JavaScript. Along the week, I challenged myself and learned how to create to-do list using HTML and JavaScript code on Visual Studio Code and familiarise myself with Vue.
 
