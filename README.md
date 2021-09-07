@@ -1,4 +1,4 @@
-Learning reflection: I have learned more depth about HTML, CSS, and JavaScript in first week by completing task 1 to 3. Not only learned about HTML, CSS, JavaScript, But I also familiarised myself with Vuejs. W3schools and Vuejs website really helps me in learning about basic HTML, CSS, JavaScript, and Vuejs. 
+Learning reflection: I have learned more depth about HTML, CSS, and JavaScript in first week by completing task 1 to 3. Not only learned about HTML, CSS, JavaScript, But I also familiarised myself with Vuejs. W3schools and Vuejs website really help me in learning about basic HTML, CSS, JavaScript, and Vuejs. 
 
 Task 1: I learned about HTML is a mark-up language that determines the structure of web pages at their most basic level. HTML instructs browsers how to process content and deliver it to the viewer using tags and attributes.  
 
