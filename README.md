@@ -1,5 +1,11 @@
 Learning reflection: I have learned more depth about HTML, CSS, and JavaScript in first week by completing task 1 to 3. Not only learned about HTML, CSS, JavaScript, But I also familiarised myself with Vuejs. W3schools and Vuejs website really help me in learning about basic HTML, CSS, JavaScript, and Vuejs. 
 
+Next week, I expected:
+
+•	To decide my website theme (5 hours).
+•	Because I have zero understanding about Vue, I have to learn basic Vue component in week 1 to week 2 (10 hours). 
+•	The most challenging task is creating vuejs to-do list. I expected to create the to-do list before next week class (10 hours). 
+
 Task 1: I learned about HTML is a mark-up language that determines the structure of web pages at their most basic level. HTML instructs browsers how to process content and deliver it to the viewer using tags and attributes.  
 
 Task 2:
